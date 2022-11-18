@@ -34,7 +34,7 @@ const NavBar = () => {
       <div className={Style.navbar_box}>
         <div className={Style.title}>
           <Link href={{ pathname: "/" }}>
-            <Image src={logo} className={Style.logoStyle} alt="logo" width={220} height={80} />
+            <h1>Digital democracy</h1>
           </Link>
         </div>
         <div className={Style.connect}>

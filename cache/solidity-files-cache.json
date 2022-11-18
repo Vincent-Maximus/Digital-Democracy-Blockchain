@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/vincentmaximus/Documents/02 - Fontys/03 - Semester Open L/Voting system/votingOrganization/contracts/VotingContract.sol": {
-      "lastModificationDate": 1668081519083,
+    "/Users/vincentmaximus/Documents/02 - Fontys/03 - Semester Open L/Voting system/Digital democracy/contracts/VotingContract.sol": {
+      "lastModificationDate": 1668429600306,
       "contentHash": "a1a76ef51ffe365ad4806e47fd897182",
       "sourceName": "contracts/VotingContract.sol",
       "solcConfig": {
@@ -39,7 +39,7 @@
         "Create"
       ]
     },
-    "/Users/vincentmaximus/Documents/02 - Fontys/03 - Semester Open L/Voting system/votingOrganization/node_modules/@openzeppelin/contracts/utils/Counters.sol": {
+    "/Users/vincentmaximus/Documents/02 - Fontys/03 - Semester Open L/Voting system/Digital democracy/node_modules/@openzeppelin/contracts/utils/Counters.sol": {
       "lastModificationDate": 1667915565504,
       "contentHash": "74654e3ae5d7f39555055dfe244dab7a",
       "sourceName": "@openzeppelin/contracts/utils/Counters.sol",
@@ -74,7 +74,7 @@
         "Counters"
       ]
     },
-    "/Users/vincentmaximus/Documents/02 - Fontys/03 - Semester Open L/Voting system/votingOrganization/node_modules/hardhat/console.sol": {
+    "/Users/vincentmaximus/Documents/02 - Fontys/03 - Semester Open L/Voting system/Digital democracy/node_modules/hardhat/console.sol": {
       "lastModificationDate": 1667915099473,
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
